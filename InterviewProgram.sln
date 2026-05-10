@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterviewProgram", "Intervi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{C0F454F1-C5A8-4A49-99B2-02723CB32996}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeString", "PalindromeString\PalindromeString.csproj", "{18053E27-0761-4DE7-969A-83721A4EAB49}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C0F454F1-C5A8-4A49-99B2-02723CB32996}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0F454F1-C5A8-4A49-99B2-02723CB32996}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0F454F1-C5A8-4A49-99B2-02723CB32996}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18053E27-0761-4DE7-969A-83721A4EAB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18053E27-0761-4DE7-969A-83721A4EAB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18053E27-0761-4DE7-969A-83721A4EAB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18053E27-0761-4DE7-969A-83721A4EAB49}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
