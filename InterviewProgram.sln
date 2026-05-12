@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseString", "ReverseStr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeString", "PalindromeString\PalindromeString.csproj", "{18053E27-0761-4DE7-969A-83721A4EAB49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci Series", "Fibonacci Series\Fibonacci Series.csproj", "{A4D652DA-9D42-43CE-B136-F8B3B0D6E5E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci Series", "Fibonacci Series\Fibonacci Series.csproj", "{A4D652DA-9D42-43CE-B136-F8B3B0D6E5E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArmstrongNumber", "ArmstrongNumber\ArmstrongNumber.csproj", "{A3F15E3A-0370-4E34-9031-1D50F46803C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArmstrongNumber", "ArmstrongNumber\ArmstrongNumber.csproj", "{A3F15E3A-0370-4E34-9031-1D50F46803C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap_Two_Numbers_Without_Third_Variable", "Swap_Two_Numbers_Without_Third_Variable\Swap_Two_Numbers_Without_Third_Variable.csproj", "{D2F37506-9793-4EEC-9BA2-E02F4EC13DFB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{A3F15E3A-0370-4E34-9031-1D50F46803C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3F15E3A-0370-4E34-9031-1D50F46803C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3F15E3A-0370-4E34-9031-1D50F46803C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2F37506-9793-4EEC-9BA2-E02F4EC13DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2F37506-9793-4EEC-9BA2-E02F4EC13DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2F37506-9793-4EEC-9BA2-E02F4EC13DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2F37506-9793-4EEC-9BA2-E02F4EC13DFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
