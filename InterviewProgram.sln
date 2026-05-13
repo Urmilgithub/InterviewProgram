@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factorial_Program", "Factor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_Vowels_in_String", "Count_Vowels_in_String\Count_Vowels_in_String.csproj", "{19989BFF-7B04-407B-8E36-95EF9211D8C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove_Duplicate_Elements_from_Array", "Remove_Duplicate_Elements_from_Array\Remove_Duplicate_Elements_from_Array.csproj", "{249A9951-C0B5-407D-8389-D084BEBB73DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{19989BFF-7B04-407B-8E36-95EF9211D8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{19989BFF-7B04-407B-8E36-95EF9211D8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{19989BFF-7B04-407B-8E36-95EF9211D8C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{249A9951-C0B5-407D-8389-D084BEBB73DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249A9951-C0B5-407D-8389-D084BEBB73DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249A9951-C0B5-407D-8389-D084BEBB73DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249A9951-C0B5-407D-8389-D084BEBB73DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
