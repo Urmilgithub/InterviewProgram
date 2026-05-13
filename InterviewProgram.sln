@@ -13,11 +13,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci Series", "Fibonac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArmstrongNumber", "ArmstrongNumber\ArmstrongNumber.csproj", "{A3F15E3A-0370-4E34-9031-1D50F46803C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap_Two_Numbers_Without_Third_Variable", "Swap_Two_Numbers_Without_Third_Variable\Swap_Two_Numbers_Without_Third_Variable.csproj", "{D2F37506-9793-4EEC-9BA2-E02F4EC13DFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swap_Two_Numbers_Without_Third_Variable", "Swap_Two_Numbers_Without_Third_Variable\Swap_Two_Numbers_Without_Third_Variable.csproj", "{D2F37506-9793-4EEC-9BA2-E02F4EC13DFB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_Largest_Number_in_Array", "..\Find_Largest_Number_in_Array\Find_Largest_Number_in_Array.csproj", "{E4F04726-B018-4E55-ABA4-F6796B4C561B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial_Program", "Factorial_Program\Factorial_Program.csproj", "{0E46BA28-2D23-49CE-990A-09085BD0ECCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Factorial_Program", "Factorial_Program\Factorial_Program.csproj", "{0E46BA28-2D23-49CE-990A-09085BD0ECCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count_Vowels_in_String", "Count_Vowels_in_String\Count_Vowels_in_String.csproj", "{19989BFF-7B04-407B-8E36-95EF9211D8C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{0E46BA28-2D23-49CE-990A-09085BD0ECCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E46BA28-2D23-49CE-990A-09085BD0ECCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E46BA28-2D23-49CE-990A-09085BD0ECCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19989BFF-7B04-407B-8E36-95EF9211D8C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19989BFF-7B04-407B-8E36-95EF9211D8C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19989BFF-7B04-407B-8E36-95EF9211D8C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19989BFF-7B04-407B-8E36-95EF9211D8C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
