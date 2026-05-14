@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort_Array_Bubble Sort", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseNumber", "ReverseNumber\ReverseNumber.csproj", "{13A86ADA-717A-4158-9FFE-EEBC58FACBE7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check_Prime_Number", "Check_Prime_Number\Check_Prime_Number.csproj", "{803A96D4-D7F2-49A6-807D-F7470B2C1D9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{13A86ADA-717A-4158-9FFE-EEBC58FACBE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13A86ADA-717A-4158-9FFE-EEBC58FACBE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13A86ADA-717A-4158-9FFE-EEBC58FACBE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{803A96D4-D7F2-49A6-807D-F7470B2C1D9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{803A96D4-D7F2-49A6-807D-F7470B2C1D9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{803A96D4-D7F2-49A6-807D-F7470B2C1D9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{803A96D4-D7F2-49A6-807D-F7470B2C1D9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
