@@ -35,6 +35,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linear Search", "Linear Sea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check_Even_or_Odd", "Check_Even_or_Odd\Check_Even_or_Odd.csproj", "{4E8CF8F5-0A2C-4063-9D59-B02901E3D31D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_Array_Elements", "Sum_of_Array_Elements\Sum_of_Array_Elements.csproj", "{971977D9-9542-46E5-A996-AB54E42F9E3A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{4E8CF8F5-0A2C-4063-9D59-B02901E3D31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E8CF8F5-0A2C-4063-9D59-B02901E3D31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E8CF8F5-0A2C-4063-9D59-B02901E3D31D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{971977D9-9542-46E5-A996-AB54E42F9E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971977D9-9542-46E5-A996-AB54E42F9E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971977D9-9542-46E5-A996-AB54E42F9E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{971977D9-9542-46E5-A996-AB54E42F9E3A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
