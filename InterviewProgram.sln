@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check_Even_or_Odd", "Check_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum_of_Array_Elements", "Sum_of_Array_Elements\Sum_of_Array_Elements.csproj", "{971977D9-9542-46E5-A996-AB54E42F9E3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check_Anagram", "Check_Anagram\Check_Anagram.csproj", "{A0676A87-4370-4374-9479-B189EE826171}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{971977D9-9542-46E5-A996-AB54E42F9E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{971977D9-9542-46E5-A996-AB54E42F9E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{971977D9-9542-46E5-A996-AB54E42F9E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0676A87-4370-4374-9479-B189EE826171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0676A87-4370-4374-9479-B189EE826171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0676A87-4370-4374-9479-B189EE826171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0676A87-4370-4374-9479-B189EE826171}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
