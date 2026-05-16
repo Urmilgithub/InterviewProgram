@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inverted_Right_Triangle", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square_Star_Pattern", "Square_Star_Pattern\Square_Star_Pattern.csproj", "{3083C92B-0246-4C98-8DC7-386F8F048E29}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramid_Pattern", "Pyramid_Pattern\Pyramid_Pattern.csproj", "{06197FFC-085B-4192-AD4A-0862689412FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +143,10 @@ Global
 		{3083C92B-0246-4C98-8DC7-386F8F048E29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3083C92B-0246-4C98-8DC7-386F8F048E29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3083C92B-0246-4C98-8DC7-386F8F048E29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06197FFC-085B-4192-AD4A-0862689412FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06197FFC-085B-4192-AD4A-0862689412FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06197FFC-085B-4192-AD4A-0862689412FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06197FFC-085B-4192-AD4A-0862689412FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
