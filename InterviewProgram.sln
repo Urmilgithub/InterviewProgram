@@ -51,6 +51,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_Largest_Number_in_Arra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_Triangle_Pattern", "Number_Triangle_Pattern\Number_Triangle_Pattern.csproj", "{173DC10C-0852-492C-AC30-FC8558375D1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floyd’s_Triangle", "Floyd’s_Triangle\Floyd’s_Triangle.csproj", "{67D988C5-978C-4813-9631-40AD20EEB8C3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{173DC10C-0852-492C-AC30-FC8558375D1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{173DC10C-0852-492C-AC30-FC8558375D1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{173DC10C-0852-492C-AC30-FC8558375D1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67D988C5-978C-4813-9631-40AD20EEB8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D988C5-978C-4813-9631-40AD20EEB8C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D988C5-978C-4813-9631-40AD20EEB8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D988C5-978C-4813-9631-40AD20EEB8C3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
