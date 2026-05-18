@@ -49,11 +49,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pyramid_Pattern", "Pyramid_
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find_Largest_Number_in_Array", "Find_Largest_Number_in_Array\Find_Largest_Number_in_Array.csproj", "{26C182B5-407C-4C8A-9A17-6F85484C3D8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number_Triangle_Pattern", "Number_Triangle_Pattern\Number_Triangle_Pattern.csproj", "{173DC10C-0852-492C-AC30-FC8558375D1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number_Triangle_Pattern", "Number_Triangle_Pattern\Number_Triangle_Pattern.csproj", "{173DC10C-0852-492C-AC30-FC8558375D1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Floyd’s_Triangle", "Floyd’s_Triangle\Floyd’s_Triangle.csproj", "{67D988C5-978C-4813-9631-40AD20EEB8C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Floyd’s_Triangle", "Floyd’s_Triangle\Floyd’s_Triangle.csproj", "{67D988C5-978C-4813-9631-40AD20EEB8C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diamond_Pattern", "Diamond_Pattern\Diamond_Pattern.csproj", "{9B81276C-5648-46E7-8BD9-A5B85FF6E2BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diamond_Pattern", "Diamond_Pattern\Diamond_Pattern.csproj", "{9B81276C-5648-46E7-8BD9-A5B85FF6E2BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inverted_Pyramid", "Inverted_Pyramid\Inverted_Pyramid.csproj", "{B6114762-B56D-4C1B-9BFA-4D9E0E6A0754}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{9B81276C-5648-46E7-8BD9-A5B85FF6E2BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B81276C-5648-46E7-8BD9-A5B85FF6E2BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B81276C-5648-46E7-8BD9-A5B85FF6E2BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6114762-B56D-4C1B-9BFA-4D9E0E6A0754}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6114762-B56D-4C1B-9BFA-4D9E0E6A0754}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6114762-B56D-4C1B-9BFA-4D9E0E6A0754}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6114762-B56D-4C1B-9BFA-4D9E0E6A0754}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
