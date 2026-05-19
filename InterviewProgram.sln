@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pyramid_Number_Pattern", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inverted_Number_Triangle", "Inverted_Number_Triangle\Inverted_Number_Triangle.csproj", "{9EEC6947-16B6-4CD7-8A09-AD9557244999}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeated Row Number Pattern", "Repeated Row Number Pattern\Repeated Row Number Pattern.csproj", "{76AFEF80-D0D4-4913-BB27-501A3321B9C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{9EEC6947-16B6-4CD7-8A09-AD9557244999}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EEC6947-16B6-4CD7-8A09-AD9557244999}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EEC6947-16B6-4CD7-8A09-AD9557244999}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76AFEF80-D0D4-4913-BB27-501A3321B9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AFEF80-D0D4-4913-BB27-501A3321B9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AFEF80-D0D4-4913-BB27-501A3321B9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AFEF80-D0D4-4913-BB27-501A3321B9C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
