@@ -69,6 +69,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repeated Row Number Pattern
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_Number_Triangle", "Reverse_Number_Triangle\Reverse_Number_Triangle.csproj", "{C13DD2E1-97D1-431D-91D7-0184B12EC2E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increment_by_Row_Pattern", "Increment_by_Row_Pattern\Increment_by_Row_Pattern.csproj", "{CE0CE451-D857-4400-B782-7B94B6689ABB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -207,6 +209,10 @@ Global
 		{C13DD2E1-97D1-431D-91D7-0184B12EC2E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C13DD2E1-97D1-431D-91D7-0184B12EC2E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C13DD2E1-97D1-431D-91D7-0184B12EC2E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0CE451-D857-4400-B782-7B94B6689ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0CE451-D857-4400-B782-7B94B6689ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0CE451-D857-4400-B782-7B94B6689ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0CE451-D857-4400-B782-7B94B6689ABB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
