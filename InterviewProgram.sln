@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse_Number_Triangle", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Increment_by_Row_Pattern", "Increment_by_Row_Pattern\Increment_by_Row_Pattern.csproj", "{CE0CE451-D857-4400-B782-7B94B6689ABB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Centered_Number_Pyramid", "Centered_Number_Pyramid\Centered_Number_Pyramid.csproj", "{3FA5B2D8-23F8-4F22-A1F6-0D6190FAA048}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{CE0CE451-D857-4400-B782-7B94B6689ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE0CE451-D857-4400-B782-7B94B6689ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE0CE451-D857-4400-B782-7B94B6689ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FA5B2D8-23F8-4F22-A1F6-0D6190FAA048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FA5B2D8-23F8-4F22-A1F6-0D6190FAA048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FA5B2D8-23F8-4F22-A1F6-0D6190FAA048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FA5B2D8-23F8-4F22-A1F6-0D6190FAA048}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
