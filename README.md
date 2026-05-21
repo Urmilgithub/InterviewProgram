@@ -50,3 +50,17 @@ It includes:
 | `RemoveDuplicateElements` | Remove duplicates from array |
 | `BubbleSort` | Sort array using Bubble Sort |
 | `LinearSearch` | Search element in array |
+
+---
+
+# 🎨 Pattern Programs
+
+## Star Patterns
+- `SquareStarPattern`
+- `PyramidPattern`
+- `DiamondPattern`
+
+## Number Patterns
+- `NumberTriangle`
+- `FloydTriangle`
+- `CenteredNumberPyramid`
