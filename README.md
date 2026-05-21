@@ -24,3 +24,15 @@ It includes:
 | `PrimeNumber` | Check prime number |
 | `SwapTwoNumbers` | Swap two numbers |
 | `EvenOrOdd` | Check even or odd |
+
+---
+
+# 🔤 String Programs
+
+| Program Name | Description |
+|-------------|-------------|
+| `ReverseString` | Reverse a string |
+| `PalindromeString` | Check palindrome string |
+| `CheckAnagram` | Check anagram strings |
+| `CountVowels` | Count vowels in string |
+| `RemoveDuplicateCharacters` | Remove duplicates from string |
