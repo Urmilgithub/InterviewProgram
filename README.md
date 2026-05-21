@@ -11,3 +11,16 @@ It includes:
 - 🎨 Pattern Programs
 - 🔍 Searching & Sorting
 - 🧠 Logical Programs
+
+# 🔢 Number Programs
+
+| Program Name | Description |
+|-------------|-------------|
+| `ArmstrongNumber` | Check Armstrong number |
+| `PalindromeNumber` | Check palindrome number |
+| `ReverseNumber` | Reverse a number |
+| `FactorialProgram` | Find factorial |
+| `FibonacciSeries` | Generate Fibonacci series |
+| `PrimeNumber` | Check prime number |
+| `SwapTwoNumbers` | Swap two numbers |
+| `EvenOrOdd` | Check even or odd |
