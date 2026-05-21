@@ -36,3 +36,17 @@ It includes:
 | `CheckAnagram` | Check anagram strings |
 | `CountVowels` | Count vowels in string |
 | `RemoveDuplicateCharacters` | Remove duplicates from string |
+
+---
+
+# 📦 Array Programs
+
+| Program Name | Description |
+|-------------|-------------|
+| `LargestElementInArray` | Find largest element |
+| `SecondLargestElement` | Find second largest |
+| `ReverseArray` | Reverse array |
+| `SumOfArrayElements` | Sum of array elements |
+| `RemoveDuplicateElements` | Remove duplicates from array |
+| `BubbleSort` | Sort array using Bubble Sort |
+| `LinearSearch` | Search element in array |
