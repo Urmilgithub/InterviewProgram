@@ -2,7 +2,7 @@
 
 Welcome to the **C# Interview Programs Repository** 🚀
 
-This repository contains commonly asked **C# coding interview programs** for beginners and experienced developers.
+This repository contains commonly asked **C# coding interview programs** for beginners and experienced developers
 
 It includes:
 - 🔢 Number Programs
