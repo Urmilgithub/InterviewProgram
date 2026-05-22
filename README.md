@@ -64,3 +64,12 @@ It includes:
 - `NumberTriangle`
 - `FloydTriangle`
 - `CenteredNumberPyramid`
+
+---
+
+# 🔍 Searching & Sorting
+
+| Algorithm | Description |
+|-----------|-------------|
+| `Linear Search` | Search element sequentially |
+| `Bubble Sort` | Sort elements using Bubble Sort |
